@@ -1,0 +1,52 @@
+/*  trying a responsive flexible container */
+
+.flex-container {
+  adding: 0;
+  margin: 0;
+  list-style: none;
+  border: 0px solid silver;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  }
+
+.nowrap {
+  -webkit-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  }
+
+.wrap {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  }
+
+.wrap li {
+  background: #ffffff;
+  }
+
+.wrap-reverse {
+  -webkit-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse;
+  }
+
+.wrap-reverse li {
+  background: deepskyblue;
+  }
+
+.flex-item {
+  background: #ffffff;
+  padding: 5px;
+  width: 100%;
+  width-max: 1200px;
+  height: auto;
+  margin: 10px;
+  line-height: 20px;
+  color: black;
+  font-weight: 400;
+  font-size: 1.25em;
+  text-align: justify;
+  }
