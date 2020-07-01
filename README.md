@@ -1,8 +1,8 @@
 # Positive Cycle
-Website
+
 This website project is to assist farmers to understand how to grow various crops and understand the different growing methods. I see it as an open-source collaborative development with the flexibility that allows users to add data and content which gets moderated by peers.  
 
-The site's development will comprise of HTML5, SASS, JAVA, SQL, and Python (Jinja & Flask). Any suggestions or assistance will be greatly appreciated as my knowledge is vast in the agricultural field and minor in the programming field.
+The site's development will comprise of HTML5, SASS, JAVA, and Python (Jinja, Flask & SQL). Any suggestions or assistance will be greatly appreciated as my knowledge is vast in the agricultural field and minor in the programming field.
 
 If you do want to add anything or discuss anything let me know jacques@positivecycle.co.za or via here
 
